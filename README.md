@@ -1,7 +1,7 @@
 # Flask-API-for-Sentiment-Analysis-and-Indexing-with-ElasticSearch
 This repo contain the code for Flask API which has two Microservices for sentiment analysis of reviews data and indexing it with ElasticSearch
 
-![](images/running-app.gif)
+![](assets/running-app.gif)
 ## Description
 The api has two Microservices:
 ### 1. Reviews analyse Microservice<br>
